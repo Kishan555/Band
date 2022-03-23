@@ -1,12 +1,12 @@
 @font-face{
-    
-    font-family: 'Lobster', cursive;
+    font-family: "Booter - Zero Zero";
+    src: url("fonts/Booter - Zero Zero.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 *{
     box-sizing: border-box;
-   font-family: 'Gideon Roman', cursive;
+   font-family: 'Lobster', cursive;
     color: #777;
 }
 html, body {
